@@ -8,6 +8,7 @@ Aucune installation ni inscription : ouvre le lien, choisis un pseudo et commenc
 
 ## Ce que tu y trouves
 
+- **Un parcours de 1 050 niveaux** en trois modes : Facile (300 niveaux), Moyen (500) et Difficile (250). Chaque chapitre s’ouvre sur un cours, enchaîne 24 exercices et se termine par un duel contre un boss qu’il faut battre pour continuer.
 - **25 cours** répartis en 4 niveaux (Bases, Intermédiaire, Avancé, Expert), chacun avec un bac à sable en direct et un quiz.
 - **32 défis visuels** : reproduis une image cible en CSS. La correction compare ton rendu à la cible en temps réel, avec des modes « Glisser » et « Différence », des indices et jusqu’à 3 étoiles par défi.
 - **L’Arène** : affronte 8 bots, de 820 à 2 280 Elo, débloqués au fil de ta progression, jusqu’au boss final. Même défi pour toi et le bot : le premier à 100 % gagne.
